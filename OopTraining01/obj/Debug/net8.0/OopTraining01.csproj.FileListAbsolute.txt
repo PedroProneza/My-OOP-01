@@ -1,0 +1,14 @@
+c:\Users\pedro\OneDrive\Documentos\MeusProjetos\My-OOP-01\OopTraining01\bin\Debug\net8.0\OopTraining01.exe
+c:\Users\pedro\OneDrive\Documentos\MeusProjetos\My-OOP-01\OopTraining01\bin\Debug\net8.0\OopTraining01.deps.json
+c:\Users\pedro\OneDrive\Documentos\MeusProjetos\My-OOP-01\OopTraining01\bin\Debug\net8.0\OopTraining01.runtimeconfig.json
+c:\Users\pedro\OneDrive\Documentos\MeusProjetos\My-OOP-01\OopTraining01\bin\Debug\net8.0\OopTraining01.dll
+c:\Users\pedro\OneDrive\Documentos\MeusProjetos\My-OOP-01\OopTraining01\bin\Debug\net8.0\OopTraining01.pdb
+c:\Users\pedro\OneDrive\Documentos\MeusProjetos\My-OOP-01\OopTraining01\obj\Debug\net8.0\OopTraining01.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\pedro\OneDrive\Documentos\MeusProjetos\My-OOP-01\OopTraining01\obj\Debug\net8.0\OopTraining01.AssemblyInfoInputs.cache
+c:\Users\pedro\OneDrive\Documentos\MeusProjetos\My-OOP-01\OopTraining01\obj\Debug\net8.0\OopTraining01.AssemblyInfo.cs
+c:\Users\pedro\OneDrive\Documentos\MeusProjetos\My-OOP-01\OopTraining01\obj\Debug\net8.0\OopTraining01.csproj.CoreCompileInputs.cache
+c:\Users\pedro\OneDrive\Documentos\MeusProjetos\My-OOP-01\OopTraining01\obj\Debug\net8.0\OopTraining01.dll
+c:\Users\pedro\OneDrive\Documentos\MeusProjetos\My-OOP-01\OopTraining01\obj\Debug\net8.0\refint\OopTraining01.dll
+c:\Users\pedro\OneDrive\Documentos\MeusProjetos\My-OOP-01\OopTraining01\obj\Debug\net8.0\OopTraining01.pdb
+c:\Users\pedro\OneDrive\Documentos\MeusProjetos\My-OOP-01\OopTraining01\obj\Debug\net8.0\OopTraining01.genruntimeconfig.cache
+c:\Users\pedro\OneDrive\Documentos\MeusProjetos\My-OOP-01\OopTraining01\obj\Debug\net8.0\ref\OopTraining01.dll

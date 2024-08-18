@@ -1,0 +1,19 @@
+public class Carro
+{
+    public string Marca { get; set; }
+    public string Modelo { get; set; }
+    public Motor Motor { get; set; }  // Composição: Carro tem um Motor
+
+    public Carro(string marca, string modelo, Motor motor)
+    {
+        Marca = marca;
+        Modelo = modelo;
+        Motor = motor;
+    }
+
+    public void LigarCarro()
+    {
+        Motor.Ligar();  // Usando o objeto Motor dentro da classe Carro
+        Console.WriteLine("Carro ligado.");
+    }
+}
